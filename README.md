@@ -1,16 +1,8 @@
 # demo-for-online-video
 
-Hello world
+Hello world  
 Bonjour tout le monde
 
-## Some new stuff
-Hi again
-
-Writing in Markdown is not that hard!
-
-# This is a heading
-## Is a smaller heading
-### Is an even smaller heading
-
-**Bold** text  
-_Italics_ text
+## Useful resources
+[Gitignore generator](https://www.gitignore.io/)
+[Markdown tutorial](https://www.markdowntutorial.com/)
